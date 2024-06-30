@@ -15,8 +15,7 @@ Groningen Roleplay heeft verschillende discord servers die zijn goed gekeurd doo
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Groningen Roleplay RolePlay| Main discord server van Groningen Roleplay | [Invite](https://discord.gg/Groningen Roleplay) |
-|Groningen Roleplay Support| Support discord server van Groningen Roleplay | [Invite](https://discord.gg/uQ9jGA93yC) |
-|Groningen Roleplay Cardealer| Cardealer discord server van Groningen Roleplay | [Invite](https://discord.gg/UcCG2kn) |
-|Groningen Roleplay Flightschool| Vliegschool discord server van Groningen Roleplay | [Invite](https://discord.gg/JMrvTrZqcz) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Groningen Roleplay | [Invite](https://discord.gg/KPTt4ce5nw) |
+|Groningen Roleplay| Main discord server van Groningen Roleplay | [Invite](https://discord.gg/groningen) |
+|Groningen Roleplay Support| Support discord server van Groningen Roleplay | [Invite](https://discord.gg/gmD9JVgDzw) |
+|Groningen Roleplay Onderwereld| Support discord server van Groningen Roleplay | [Invite](https://discord.gg/juHcDsr5bt) |
+|Groningen Roleplay Overheid| Support discord server van Groningen Roleplay | [Invite](https://discord.gg/rQydMtwFcv) |

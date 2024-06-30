@@ -940,8 +940,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII](https://i.imgur.com/7KGl9DA.webp)
-
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
 1. Niet schuldig is een persoon die:
